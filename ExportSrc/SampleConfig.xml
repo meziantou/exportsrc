@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ExportSrc removeTfsBinding="true" unprotectFiles="true" overrideFiles="true" computeHash="true" excludeGeneratedFiles="false" outputReadOnly="null">
+  <Filters>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.ncb</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.ilk</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.pdb</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.srb</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.obj</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.exe</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.vshost.*</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.dll</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.ocx</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.CodeAnalysisLog.xml</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.lastcodeanalysissucceeded</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.suo</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.vssscc</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.vspscc</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.user</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.orig</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.bak</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.temp</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.tmp</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.*log</Exclude>
+    <Exclude applyToDirectory="false" applyToFile="true" applyToFileName="true" applyToPath="false">*.Bindings</Exclude>
+
+    <Filter type="Exclude" applyToDirectory="true" applyToFile="true" applyToFileName="true" applyToPath="false">*resharper*</Filter>
+
+    <Exclude applyToDirectory="true" applyToFile="false" applyToFileName="true" applyToPath="false">Debug</Exclude>
+    <Exclude applyToDirectory="true" applyToFile="false" applyToFileName="true" applyToPath="false">Bin</Exclude>
+    <Exclude applyToDirectory="true" applyToFile="false" applyToFileName="true" applyToPath="false">Obj</Exclude>
+    <Exclude applyToDirectory="true" applyToFile="false" applyToFileName="true" applyToPath="false">IPCH</Exclude>
+  </Filters>
+</ExportSrc>
